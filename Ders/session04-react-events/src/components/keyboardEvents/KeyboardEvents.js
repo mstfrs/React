@@ -1,7 +1,13 @@
 const KeyboardEvents = () => {
   // keyDown
+  const handleKeyDown = (e) => {
+    console.log("keyDown", e.type);
+  };
 
   //keyUp
+  const handleKeyUp = (e) => {
+    console.log("keyUP", e.type);
+  };
 
   // cut event
 
@@ -10,9 +16,9 @@ const KeyboardEvents = () => {
   // copy
 
   return (
-    <div style={{ marginTop: '30px' }}>
+    <div style={{ marginTop: "30px" }}>
       <h2>KeyboardEvents</h2>
-      <input type="text" />
+      <input type="text" onKeyUp={handleKeyUp} onKeyDown={handleKeyDown} />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
