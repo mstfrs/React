@@ -4,7 +4,8 @@ export default styled.div`
   margin: auto;
   height: 100vh;
   width: 100%;
-  /* display: flex; */
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 `;
