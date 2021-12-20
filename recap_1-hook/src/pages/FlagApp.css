@@ -1,0 +1,17 @@
+img {
+  width: 150px;
+  height: 100px;
+}
+.gridcontainer {
+  display: grid;
+  /* grid-gap: 10px; */
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: "auto";
+}
+body {
+  text-align: center;
+}
+img:hover {
+  transform: rotatex(360deg);
+  transition: 3s;
+}
