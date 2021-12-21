@@ -4,40 +4,59 @@
   box-sizing: border-box;
 }
 .container {
-  margin: 0 auto;
+  margin: 50px auto;
   align-items: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  width: 600px;
+  height: 700px;
+  /* background-color: rgb(193, 101, 44); */
+  background-image: linear-gradient(
+    180deg,
+    rgb(62, 178, 220),
+    rgb(255, 255, 255)
+  );
+  box-shadow: 0px 0px 10px 10px #572235;
+  border-radius: 20px;
+  padding-top: 20px;
 }
 
 .grid-container {
   padding-top: 20px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  margin: 0px auto;
 
   justify-content: center;
   align-items: center;
   text-align: center;
   vertical-align: middle;
-  width: 400px;
+  width: 500px;
   height: 500px;
-  margin: 50px auto;
-  background-color: aqua;
+  /* background-color: aqua; */
+
   border-radius: 20px;
 }
 .grid-item {
   padding: 10px;
+  font-size: 1.3rem;
 }
-img {
+.grid-item > img {
   width: 30px;
 }
 #userimg {
-  width: 80px;
-  height: 80px;
-  border: 1px solid black;
-  border-radius: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px 10px #155261;
 }
 button {
-  width: 100px;
-  height: 30px;
+  width: 200px;
+  height: 50px;
+  font-size: 1.2rem;
+  border-radius: 20px;
 }
 
 /* .App {
