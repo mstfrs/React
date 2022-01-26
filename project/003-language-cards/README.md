@@ -1,5 +1,14 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+### Hi there, I'm Mustafa...
+
+## React Developer
+
+## Reach out to me
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" align="left"/>
+][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mustafa-%C3%B6rs/
+
 
 # Project-003 : Language Cards (RC-03)
 
