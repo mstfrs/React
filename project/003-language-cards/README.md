@@ -4,9 +4,10 @@
 
 ## Reach out to me
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/LinkedIn.svg" />
-
-][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/LinkedIn.svg" />][linkedin]
+<br/>
+<br/>
+<br/>
 
 [linkedin]: https://www.linkedin.com/in/mustafa-%C3%B6rs/
 
