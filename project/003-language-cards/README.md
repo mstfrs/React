@@ -6,7 +6,7 @@
 
 ## Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" align="left"/>
+[<img  width="22" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" align="left"/>
 ][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-%C3%B6rs/
@@ -18,15 +18,11 @@
 
 <hr>
 
-# Project-003 : Language Cards (RC-03)
+# Project-Name : Language Cards
 
 ## Description
 
 Project aims to create a Languages Cards App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -54,23 +50,18 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
+<details>
+<summary><img width="30" src="https://img.icons8.com/nolan/64/more.png"/> Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=mstfrs&theme=radical" >
+</details>
 
-![Project 003 Snapshot](language-cards.gif)
+<details>
+<summary><img width="30" src="https://img.icons8.com/nolan/64/more.png"/> Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfrs&layout=compact)" >
+</details>
 
-## Objective
+<br/>
 
-Build a Languages Cards App using ReactJS.
-
-### At the end of the project, following topics are to be covered;
-
-- HTML
-
-- CSS
-
-- JS
-
-- ReactJS
 
 ### At the end of the project, students will be able to;
 
@@ -78,18 +69,4 @@ Build a Languages Cards App using ReactJS.
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
 
-- Step 1: Create React App using `npx create-react-app language-cards`
-
-- Step 2: Build Languages Cards app using `data.js` images in assets folder.
-
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
