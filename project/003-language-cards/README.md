@@ -1,16 +1,24 @@
+<img src="language-cards.gif" align="right" width=400 heigth="250">
 ### Hi there, I'm Mustafa...
 
 ## React Developer
 
 ## Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON SLUG].svg" />][linkedin]
-<br/>
-<br/>
-<br/>
+[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" align="left"/>
+][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-%C3%B6rs/
+<br/>
 
+## Tech I Use
+
+<img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+<hr>
 
 # Project-003 : Language Cards (RC-03)
 
