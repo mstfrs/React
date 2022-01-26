@@ -4,7 +4,8 @@
 
 ## Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" align="left"/>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/LinkedIn.svg" />
+
 ][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-%C3%B6rs/
