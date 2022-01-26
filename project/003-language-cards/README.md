@@ -53,9 +53,7 @@ SOLUTION
 <details>
 <summary><img width="30" src="https://img.icons8.com/nolan/64/more.png"/> Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=mstfrs&theme=radical" >
-</details>
-
-<details>
+</details><details>
 <summary><img width="30" src="https://img.icons8.com/nolan/64/more.png"/> Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfrs&layout=compact)" >
 </details>
